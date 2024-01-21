@@ -1,7 +1,14 @@
 # Hi there 👋, I'm Velman!
+About Me:
 
-## My Contact: 
-Instagram - [velmanharefa](https://www.instagram.com/)
+- 🔭 I’m currently studying at Telkom University
+- 🌱 I’m currently learning about JavaScript
+- 👯 I’m looking to collaborate as Web Developer
+- 💬 Ask me about anything
+- 📫 How to reach me: velmanh24@gmail.com
+
+Connect With Me:
+- Instagram - [velmanharefa](https://www.instagram.com/)
 
 <!--
 **velmanharefa/velmanharefa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
