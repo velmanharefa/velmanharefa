@@ -3,7 +3,6 @@ About Me:
 
 - 🔭 I’m currently studying at Telkom University
 - 🌱 I’m currently learning about JavaScript
-- 👯 I’m looking to collaborate as Web Developer
 - 💬 Ask me about anything
 - 📫 How to reach me: velmanh24@gmail.com
 
