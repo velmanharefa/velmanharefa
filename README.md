@@ -1,19 +1,28 @@
 # Hi there 👋, I'm Velman!
-About Me:
+<h3 align="left"> About Me</h3>
 
 - 🔭 I’m currently studying at Telkom University
 - 🌱 I’m currently learning about JavaScript
 - 💬 Ask me about anything
 - 📫 How to reach me: velmanh24@gmail.com
 
-Connect With Me:
-- Instagram - [velmanharefa](https://www.instagram.com/)
-- YouTube - [manprx_](https://www.youtube.com/channel/UCl_Jw_hHWo5EBqt41E9vcsA)
+<h3 align="left"> Connect With Me</h3>
+<div align="left">
+  <a href="https://www.youtube.com/channel/UCl_Jw_hHWo5EBqt41E9vcsA" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/velmanharefa/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/velman-harefa-bba14129b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
 
-# Languae and Tools
+<h3 align="left"> Language and Tools :</h3>
+
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -38,12 +47,15 @@ Connect With Me:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=velmanharefa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=velmanharefa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<h3 align="left"> My Stats :</h3>
+<div style="text-align: center; line-height: 150px;">
+  <img src="https://streak-stats.demolab.com?user=velmanharefa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" style="vertical-align: middle;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=velmanharefa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" style="vertical-align: middle;" />
 </div>
+
+
+
+
 
 ###
 
