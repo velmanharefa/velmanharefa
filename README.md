@@ -47,7 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
 </div>
 
-<h3 align="left"> My Stats :</h3>
+<h3 align="left"> Github Stats :</h3>
 <div style="text-align: center; line-height: 150px;">
   <img src="https://streak-stats.demolab.com?user=velmanharefa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" style="vertical-align: middle;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=velmanharefa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" style="vertical-align: middle;" />
