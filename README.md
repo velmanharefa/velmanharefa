@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Velman!
 <h3 align="left"> About Me</h3>
 
+
 - 🔭 I’m currently studying at Telkom University
 - 🌱 I’m currently learning about JavaScript & Node.js
 - 💬 Ask me about anything
