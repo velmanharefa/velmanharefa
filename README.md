@@ -8,9 +8,9 @@
    
 <h3 align="left">  Connect With Me</h3>
 <div align="left">
-  <a href="https://www.youtube.com/channel/UCl_Jw_hHWo5EBqt41E9vcsA" target="_blank">
+<!--   <a href="https://www.youtube.com/channel/UCl_Jw_hHWo5EBqt41E9vcsA" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
+  </a> -->
   <a href="https://www.instagram.com/velmanharefa/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
